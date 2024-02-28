@@ -1,0 +1,29 @@
+body {
+    background-color: #F5F5DC;
+    color: #593729;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+h1 {
+    background-color: #A0C959;
+    margin: 0;
+    padding: 5px 10px;
+}
+
+div {
+    padding: 10px;
+}
+
+h2 {
+    color: #000000;
+}
+
+a{
+    text-decoration: none;
+}
+
+p {
+    width: 65%;
+    color: #593729;
+}
